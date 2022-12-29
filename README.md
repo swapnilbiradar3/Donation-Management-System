@@ -58,7 +58,7 @@ For running the application:
 
 ## Instructions to run the project
 
-1. Clone repo https://github.com/Jha-RaushanKumar/Donation-Management-System
+1. Clone repo git@github.com:swapnilbiradar3/Donation-Management-System.git
 2. Install JDK 14.
 3. Install netBeans 15.
 4. Open project.
